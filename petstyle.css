@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+body{background-image: url("Images/cowhug.gif");
+	background-repeat:no-repeat;
+	background-size:cover;
+	text-align:center;}
+
+header{font-family:monaco;
+	color: white;}

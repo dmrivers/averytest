@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+header{text-align:center;
+		font-family:monaco;
+		color:white;
+		font-size:50px;}
+
+.images{background-image:url("Images/steak4.gif");
+	background-repeat: repeat;
+}	
+
+body{background-image:url("Images/steak5.gif")}
+
+simpsons{float:right;}
+madcow{float:right;}
+
+.link{font-family:monaco;
+	font-size:30px;
+	text-align:center;
+	color:white;}
+
+a:hover{color:white;}

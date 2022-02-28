@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+.header{text-align: center;
+	font-family: monaco;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+body{align-content: center;
+background-color:#78CCEB;
+background-image: url("Images/cows.gif");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.pet{float:right;
+	font-family: monaco;
+	font-size: 60px;}
+
+	a:hover{color:black;}
+
+.eat{font-family: monaco;
+	font-size: 60px;}
+	
+a:hover{color:black;}
